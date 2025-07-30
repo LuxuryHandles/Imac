@@ -1,0 +1,26 @@
+﻿{
+  "InstalledPluginNames": [
+    "Obsolete field, using only for compatibility"
+  ],
+  "InstalledPlugins": [
+    {
+      "SystemName": "Tax.FixedOrByCountryStateZip",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Widgets.GoogleAnalytics",
+      "Version": "4.80.3"
+    },
+    {
+      "SystemName": "Widgets.Swiper",
+      "Version": "4.80.1"
+    },
+    {
+      "SystemName": "Payments.Manual",
+      "Version": "4.80.3"
+    }
+  ],
+  "PluginNamesToUninstall": [],
+  "PluginNamesToDelete": [],
+  "PluginNamesToInstall": []
+}
